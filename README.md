@@ -1,4 +1,3 @@
-### About me:
 - 🚀 I'm an aspiring and avid learning Junior Full Stack Developer
 - 🌱 I’m currently getting into the MERN stack, which I preferably want to use in my next projects. Will share my some actual progress and code soon
 - 💼 I have a background in AdTech (4.5 years of experience)
